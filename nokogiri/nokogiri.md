@@ -3,8 +3,8 @@
 
 !SLIDE bullets incremental
 # What is Nokogiri?#
-* A HTML/XML reader that parses out that information in a useable format
-* Can search the the nokogiri data using xpath or css selectors
+* An HTML/XML reader that parses out information in a useable format
+* Can search the Nokogiri data using xpath or css selectors
 * Let's install it
 
 !SLIDE commandline incremental
@@ -16,10 +16,10 @@
 	Installing RDoc documentation for nokogiri-1.4.4...
 
 !SLIDE bullets incremental
-## If you use Nokogiri you will use xpath extensively here are some basics for selecting info##
-* Select the root note => /
+## If you use Nokogiri you will use xpath extensively. Here are some basics for selecting info##
+* Selects the root node => /
 * Selects all in the document that match => //
-* Select the current node => .
+* Selects the current node => .
 * Selects the parent of the current node => ..
 * Selects attribute => @
 
@@ -29,7 +29,7 @@
 
 !SLIDE center incremental
 ## Time for an example ##
-.aside and maybe some witchcraft
+.aside and maybe some *witchcraft*
 
 !SLIDE
 ## Xpath example ##
