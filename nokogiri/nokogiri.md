@@ -16,7 +16,7 @@
 	Installing RDoc documentation for nokogiri-1.4.4...
 
 !SLIDE bullets incremental
-## If you use Nokogiri you will use xpath extensively. Here are some basics for selecting info##
+## If you use Nokogiri you will use xpath extensively. Here are some basics for selecting info:##
 * Selects the root node => /
 * Selects all in the document that match => //
 * Selects the current node => .
