@@ -1,0 +1,7 @@
+{ "Sean": "Data Scraping", "sections": [ 
+{"section":"intro"},
+{"section":"background"},
+{"section":"nokogiri"},
+{"section":"background2"},
+{"section":"wrapup"}
+]}
