@@ -16,6 +16,5 @@
 ## Thanks for your time ##
 
 !SLIDE center incremental
-# Applause #
 ![Applause](applause.jpg)
 
