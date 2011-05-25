@@ -2,10 +2,10 @@
 ## That's Nokogiri and Mechanize. Which brings me to...##
 
 !SLIDE center incremental
-## New project to learn rails? ##
+## New project to learn Rails? ##
 
 !SLIDE bullets incremental
-## Build a rails based recruitment site ##
+## Build a Rails based recruitment site ##
 * Forms
 * Mysql/queries
 * Calendar
