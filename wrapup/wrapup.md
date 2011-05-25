@@ -10,15 +10,12 @@
 * Mysql/queries
 * Calendar
 * e-mails
-* etc
+* etc...
 
 !SLIDE center incremental
 ## Thanks for your time ##
 
 !SLIDE center incremental
-## Applause ##
-
-!SLIDE center incremental
-## More applause ##
+# Applause #
 ![Applause](applause.jpg)
 
