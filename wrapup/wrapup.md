@@ -1,5 +1,5 @@
 !SLIDE center
-## That is the gist of what I have been using Nokogiri and Mechanize for and I am happy to give whatever help I can afterwords##
+## That is the gist of what I have been using Nokogiri and Mechanize for and I am happy to give whatever help I can afterwards##
 
 !SLIDE center incremental
 ## New project to learn rails? ##
